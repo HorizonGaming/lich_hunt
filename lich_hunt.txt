@@ -1,0 +1,8 @@
+"lich_hunt"
+{
+	"base"		"base"
+	"title"		"Lich Hunt"
+	"maps"		"^cs_"
+	"menusystem"	"1"
+	"workshopid"	""
+}
